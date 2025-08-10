@@ -51,14 +51,14 @@ export const metadata: Metadata = {
     description: 'Mobile and AI-focused developer building high-performance applications with Flutter, React, and cloud services. View my portfolio of scalable apps and AI-powered solutions.',
     images: [
       {
-        url: '/images/my.png', // Create a 1200x630 image for social sharing
+        url: '/images/my.png', 
         width: 1200,
         height: 630,
-        alt: 'Raghavendra Reddy Padala - Mobile App Developer Portfolio',
+        alt: 'Raghavendra Reddy Padala - App Developer Portfolio',
         type: 'image/png',
       },
       {
-        url: '/images/my.png', // Your existing profile image
+        url: '/images/my.png', 
         width: 400,
         height: 400,
         alt: 'Raghavendra Reddy Padala Profile Photo',
@@ -160,7 +160,7 @@ export default function RootLayout({
               "name": "Raghavendra Reddy Padala",
               "url": "raghavendrareddypadala.vercel.app", // Replace with your domain
               "image": "raghavendrareddypadala.vercel.app/images/my.png", // Replace with your domain
-              "email": "raghavareddy696969@gmail.com",
+              "email": "raghavendrapadala5@gmail.com",
               "jobTitle": "Mobile App Developer & AI Engineer",
               "worksFor": {
                 "@type": "Organization",
