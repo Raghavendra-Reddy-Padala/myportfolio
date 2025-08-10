@@ -1,0 +1,29 @@
+# robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: raghavendrareddypadala.vercel.app/sitemap.xml
+
+# Optional: Block any admin or private areas if you have them
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow all major search engine bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# Crawl-delay (optional, in seconds)
+# Crawl-delay: 1

@@ -488,10 +488,10 @@ export default function Page() {
         <div className="mt-3 p-2 border-[2px] border-black bg-[#f5f5f5] rounded-none w-full">
           <p className="font-mono text-xs text-center">
             <a 
-              href="mailto:raghavareddy696969@gmail.com"
+              href="mailto:raghavendrapadala5@gmail.com"
               className="underline decoration-[var(--accent)] decoration-2"
             >
-              raghavareddy696969@gmail.com
+              raghavendrapadala5@gmail.com
             </a>
           </p>
         </div>
@@ -580,9 +580,9 @@ export default function Page() {
                 Email:{" "}
                 <a
                   className="underline decoration-[var(--accent)] decoration-4 underline-offset-4 hover:text-white hover:bg-black"
-                  href="mailto:raghavareddy696969@gmail.com"
+                  href="mailto:raghavendrapadala5@gmail.com"
                 >
-                  raghavareddy696969@gmail.com
+                  raghavendrapadala5@gmail.com
                 </a>
               </span>
             </div>
@@ -947,9 +947,9 @@ export default function Page() {
                 Email:{" "}
                 <a
                   className="underline decoration-[var(--accent)] decoration-4 underline-offset-4"
-                  href="mailto:raghavareddy696969@gmail.com"
+                  href="mailto:raghavendrapadala5@gmail.com"
                 >
-                  raghavareddy696969@gmail.com
+                  raghavendrapadala5@gmail.com
                 </a>
               </div>
               <div>
@@ -975,11 +975,11 @@ export default function Page() {
                 </a>
               </div>
             </div>
-            <img
+            {/* <img
               src="/brutalist-divider.png"
               alt="Decorative brutalist divider"
               className="w-full border-[5px] border-black rounded-none"
-            />
+            /> */}
           </div>
         </div>
       </section>
