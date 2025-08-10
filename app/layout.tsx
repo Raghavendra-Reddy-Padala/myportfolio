@@ -17,6 +17,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* ✅ Google Search Console Verification */}
+        <meta name="google-site-verification" content="oi9NT56ZdhlOJhxz-vGHeTZHu2If3TlUHxmOMJU5cvI" />
+
         <style>{`
 html {
   font-family: ${GeistSans.style.fontFamily};
@@ -29,3 +32,4 @@ html {
     </html>
   )
 }
+
